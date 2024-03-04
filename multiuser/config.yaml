@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    lorenzo:
+      email: lorenzoacg@gmail.com
+      logged_in: False # Will be managed automatically
+      name: Lorenzo De Appolonia
+      password: abc # Will be hashed automatically
+cookie:
+  expiry_days: 1
+  key: 'cookie_authentication_key' # Must be string
+  name: 'authentication_cookie'
+#preauthorized:
+#  emails:
+#  - melsby@gmail.com
